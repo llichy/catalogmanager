@@ -12,5 +12,5 @@ try {
 	die('Maintenance en cours...');
 }
 
-$url = "https://localhost/catalog/";
-$swf = "https://localhost/game/";
+$url = "https://localhost/catalog/"; // Lien vers l'emplacement ou vous aller installer le catalog manager
+$swf = "https://localhost/game/"; // Lien vers vos SWF
