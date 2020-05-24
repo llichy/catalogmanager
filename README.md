@@ -1,2 +1,4 @@
 # catalogmanager
-catalog manager for Arcturus Morningstar
+
+config inc.php
+And modify the basic furnitures / items tables to adapt it to your emulator.
