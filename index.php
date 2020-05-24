@@ -19,9 +19,6 @@ include "inc.php";
 
         $(document).ready(function() {
 
-            // Author:  Jacek Becela
-            // Source:  http://gist.github.com/399624
-            // License: MITFR
 
             jQuery.fn.single_double_click = function(single_click_callback, double_click_callback, timeout) {
                 return this.each(function(){
